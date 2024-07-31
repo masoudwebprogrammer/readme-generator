@@ -1,0 +1,27 @@
+{
+  "name": "readme.md-generator",
+  "version": "1.0.0",
+  "description": "Generate a quality readme",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "readme",
+    "readme generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajcuddeback/readme-generator.git"
+  },
+  "author": "ajcuddeback",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajcuddeback/readme-generator/issues"
+  },
+  "homepage": "https://github.com/ajcuddeback/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
